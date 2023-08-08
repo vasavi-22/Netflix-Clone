@@ -35,7 +35,7 @@ These are all the DIV ID's you're gonna need access to 👇
 #3 ID 👉 'top_rated' = Div that holds top rated Movies
 */
 
-// Call the main functions the page is loaded
+//Call the main functions the page is loaded
 window.onload = () => {
     getOriginals()
     getTrendingNow()
